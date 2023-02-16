@@ -16,7 +16,7 @@ Install the dependencies:
 
 Start the server:
 
-`npm start`
+`node app.js`
 
 The server will now be running at http://localhost:3000.
 
