@@ -3,8 +3,10 @@
 Clone the repository to your local machine:
  
  `git clone git@github.com:Project-Repositoryy/Medical-Bills.git`
+ 
  `or`
- `git clone 
+ 
+ `git clone https://github.com/Project-Repositoryy/Medical-Bills.git`
   
 Install the dependencies:
 
